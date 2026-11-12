@@ -1,0 +1,20 @@
+# Entornos virtuales y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados en tiempo de ejecución
+recordings/
+logs/
+*.mp4
+*.avi
+*.wav
+*.log
+.tmp_*
+
+# Testing e IDE
+.pytest_cache/
+.vscode/
+.idea/
